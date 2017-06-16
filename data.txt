@@ -1,0 +1,42 @@
+{
+	"Id":1,
+	"Configuration":"i3",
+	"CreatedBy":"Intel",
+	"CreatedOn":"2016-08-09 07:42:28",
+	"ModifiedOn":"2016-08-09 07:42:28",
+	"ModifiedBy":"AMD",
+	"IsDeleted":"true"
+}
+
+
+{
+	"Id":1,
+	"StartDateTime":"2016-08-09 07:42:28",
+	"EndDateTime":"2016-08-09 07:42:28",
+	"Status":101,
+	"ApplicationName":"App1",
+	"CreateBy":"Intel",
+	"CreatedOn":"2016-08-09 07:42:28",
+	"ModifiedOn":"2016-08-09 07:42:28",
+	"ModifiedBy":"AMD",
+	"IsDeleted":true,
+	"Configuration_Id":1,
+	"SignOffUser":"Yes"
+
+}
+
+{
+	"Id":2,
+	"StartDateTime":"2017-08-09 07:42:28",
+	"EndDateTime":"2017-08-09 07:42:28",
+	"Status":102,
+	"ApplicationName":"App2",
+	"CreatedBy":"Lenovo",
+	"CreatedOn":"2017-08-09 07:42:28",
+	"ModifiedOn":"2017-08-09 07:42:28",
+	"ModifiedBy":"Redmi",
+	"IsDeleted":true,
+	"Configuration_Id":2,
+	"SignOffUser":"No"
+
+}
